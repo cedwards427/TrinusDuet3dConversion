@@ -1,5 +1,5 @@
 # TrinusDuet3dConversion
-Configuration and models created to convert a Kodama Trinus (Panowin Pango) 3D printer to Duet 3 Mini 5+ control board and an E3D Hemera hot end.
+Configuration and models created to convert a Kodama Trinus (Panowin F1) 3D printer to Duet 3 Mini 5+ control board and an E3D Hemera hot end.
 
 The Kodama Trinus is (was?) a small, rigid framed, 3d printer based around modular, worm-gear driven axis assemblies. It initially ran with a proprietary controller board with a proprietary slicer (slicing to 'p-code'). The Trinus was (as far as I can tell) developed and manufactured by Panowin (as the F1, with the Pango slicer) and was marketed and imported to the US by Kodama. Kodama offered several upgrades including an optional enclosure, laser engraver, and upgraded heated bed. Years later, Kodama released the "Bardo" board with Marlin firmware.
 
